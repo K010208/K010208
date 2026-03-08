@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>End-to-end AI/ML projects including predictive modeling, computer vision pipelines, and LLM-based applications using Python.<br><br>👯 I’m looking to collaborate on:<br>Machine Learning, Computer Vision, NLP/LLM projects, real-world datasets, and open-source AI initiatives.<br><br>🤝 I’m looking for help with:<br>Model optimization, deployment best practices, and scaling ML solutions.<br><br>🌱 I’m currently learning:<br>Advanced ML/DL, LLM architectures, MLOps basics, and production-ready AI workflows.<br><br>💬 Ask me about:<br>Python, Machine Learning, Data Analysis, Computer Vision, NLP, and project structuring.<br><br>⚡ Fun fact:<br>I enjoy turning complex problems into clean, reproducible ML solutions 🚀
+#👩‍💻 About Me
+Hi! I'm Khushi Chauhan, an aspiring Business & Data Analyst passionate about using data to solve real business problems and drive smarter decisions.
+📊 I work with Python, SQL, and Excel to clean, analyze, and visualize data, transforming raw datasets into meaningful business insights.
+🚀 My interests include:
+• 📈 Business & Product Analytics
+• 🔍 Exploratory Data Analysis (EDA)
+• 👥 Customer Behavior Analysis
+• 📊 Data Visualization & KPI Tracking
+• 💡 Data-Driven Decision Making
+💼 Through industry simulations with BCG X, Tata iQ, and Siemens, I have gained experience in customer journey mapping, market research, business strategy, and analytics-driven insights.
+🛠️ Tools & Technologies
+Python | SQL | Excel | Pandas | NumPy | Matplotlib | Data Analysis
+🎯 I’m currently seeking opportunities in Business Analytics, Data Analytics, and Product Analytics where I can use data to create real impact
 
 
 ## 🌐 Socials:
